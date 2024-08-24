@@ -29,3 +29,4 @@ notafinal = (bim1+bim2+bim3+bim4)/4
 print(f"sua nota final em {materia} foi: {notafinal}")
 if notafinal < 6 :print("voce foi reprovado :D \n")
 if notafinal >= 6 :print("voce foi aprovado >:D \n")
+ #eba
